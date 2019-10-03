@@ -97,9 +97,14 @@ span {
     position: relative;
     top: 30px;
     left: 150px;
+    
 }
 
+.search{
+    font-size: 20px;
+}
 input {
     height: 30px;
     width: 250px
+    
 }
